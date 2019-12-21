@@ -1,0 +1,5 @@
+{
+    "latest_version": 0,
+    "client_id": "DESKTOP-HQES6JP",
+    "change_time": "2019-12-21T13:22:20.814992"
+}
